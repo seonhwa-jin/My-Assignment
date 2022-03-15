@@ -1,0 +1,16 @@
+
+.hidden {
+  display:none;
+}
+
+h3,h4{
+  display: inline;
+}
+
+
+body{
+  background-color: #9CC3D5;
+  color: #0063B2;
+  font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
